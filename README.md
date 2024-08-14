@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Manahil (@manahil-9)
+- 👀 I’m passionate about data science, machine learning, and big data analytics.
+- 🌱 I’m currently enhancing my skills in advanced machine learning algorithms, deep learning, and data visualization techniques.
+- 💞️ I’m eager to collaborate on projects focused on machine learning, data analysis, data visualization, and extracting actionable insights from data.
+- 📫 How to reach me: manahil.ahmad209@gmail.com or connect with me on LinkedIn: http://linkedin.com/in/manahil-ahmad-83891524b.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love discovering hidden patterns in data and turning them into actionable insights!
